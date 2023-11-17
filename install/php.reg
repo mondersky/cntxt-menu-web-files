@@ -1,0 +1,10 @@
+Windows Registry Editor Version 5.00
+
+[HKEY_CLASSES_ROOT\.php]
+@="php"
+
+[HKEY_CLASSES_ROOT\.php\ShellNew]
+"FileName"="php.php"
+
+[HKEY_CLASSES_ROOT\php]
+@="php"
