@@ -1,6 +1,6 @@
 # Windows 10 New File Menu Enhancements with web dev file types
 
-This repository provides a simple registry script (`install.reg`) to enhance the Windows 10 context menu when right-clicking in File Explorer. The script adds options to create new PHP, HTML, CSS, and JS files directly from the context menu.
+This repository provides a simple yet powerful utility to web developers. A registry script (`install.reg`) to enhance the Windows 10 context menu when right-clicking in File Explorer. The script adds options to create new PHP, HTML, CSS, and JS files directly from the context menu.
 
 ## Installation
 
