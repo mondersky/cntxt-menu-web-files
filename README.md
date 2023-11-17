@@ -4,22 +4,14 @@ This repository provides a simple yet powerful utility to web developers. A pack
 
 ![demo](docs/demo.gif)
 
-## Installation
+## Install
 
 1. Clone or download this repository to your local machine.
 
-2. Run the registry file respective to the new file you want to add.
+2. Double-click to run the registry file for the file type you want to add to the context menu. Alternatively, you can run the _install-all.reg_ file to add all file types at once.
 
-## How do I remove an item from the "new" section of the context menu?
+## Uninstall
 
-1. press windows + r
+1. Navigate to where you downloaded the repository.
 
-2. run "regedit"
-
-3. navigate to HKEY_CLASSES_ROOT
-
-4. look for the extension name (ex .php) and expand it
-
-5. look for ShellNew and delete it
-
-
+2. Double-click to run the registry file for the file type you want to remove from the context menu. Alternatively, you can run the _uninstall-all.reg_ file to remove all file types at once.
