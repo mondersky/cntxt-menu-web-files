@@ -1,0 +1,49 @@
+Windows Registry Editor Version 5.00
+
+; new file type
+[HKEY_CLASSES_ROOT\.html]
+@="html"
+
+; template
+[HKEY_CLASSES_ROOT\.html\ShellNew]
+"FileName"="html.html"
+
+; file type name
+[HKEY_CLASSES_ROOT\html]
+@="html"
+
+; new file type
+[HKEY_CLASSES_ROOT\.css]
+@="css"
+
+; template
+[HKEY_CLASSES_ROOT\.css\ShellNew]
+"FileName"="css.css"
+
+; file type name
+[HKEY_CLASSES_ROOT\css]
+@="css"
+
+; new file type
+[HKEY_CLASSES_ROOT\.php]
+@="php"
+
+; template
+[HKEY_CLASSES_ROOT\.php\ShellNew]
+"FileName"="php.php"
+
+; file type name
+[HKEY_CLASSES_ROOT\php]
+@="php"
+
+; new file type
+[HKEY_CLASSES_ROOT\.js]
+@="js"
+
+; template
+[HKEY_CLASSES_ROOT\.js\ShellNew]
+"FileName"="js.js"
+
+; file type name
+[HKEY_CLASSES_ROOT\js]
+@="js"
